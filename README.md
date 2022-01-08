@@ -48,5 +48,79 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 15 Contributions in the Year 2022
+ > 
+> 📦 3.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+🌆 Daytime    68 commits     ██████████░░░░░░░░░░░░░░░   42.77% 
+🌃 Evening    62 commits     █████████░░░░░░░░░░░░░░░░   38.99% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       41 commits     ██████░░░░░░░░░░░░░░░░░░░   25.79% 
+Tuesday      33 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75% 
+Wednesday    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
+Thursday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+Friday       31 commits     █████░░░░░░░░░░░░░░░░░░░░   19.5% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
+Sunday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
+Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ilgarcia/ilgarcia/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
   
