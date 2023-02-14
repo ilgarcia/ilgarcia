@@ -4,20 +4,21 @@
   <p>
     Welcome to my page!
     </br>
-    I'm Igor, a Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299693.png" width="13"/> <b>São Caetano do Sul, Brasil</b>.
+    I'm Igor, a Full Stack developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299693.png" width="13"/> <b>Osasco, Brasil</b>.
   </p>
 </div>
 
-- 🖥 I’m currently working with Backend
+- 🖥 I’m currently working with Full Stack
 - 🌱 I’m currently learning by following a Backend roadmap, you can see my progress <a href="https://github.com/ilgarcia/Learning-Backend">here</a> 
 - 🎓 I’m currently Studying Computer Science at Faculdade de Informática e Administração Paulista (FIAP) 
-- 📫 How to reach me: <a href="https://github.com/ilgarcia/Learning-Backend">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ilgarcia/">Linkedin</a>
 - 😄 Pronouns: he/him
 
 ## 🔥 About me
 
 <!-- Badges -->
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ## 👨‍💻 Programming languages and Tools
 
