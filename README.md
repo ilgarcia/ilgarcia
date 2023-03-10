@@ -19,6 +19,8 @@
 <!-- Badges -->
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://www.vectorlogo.zone/ -->
+<!-- https://devicon.dev/ -->
 
 ## 👨‍💻 Programming languages and Tools
 
