@@ -9,20 +9,24 @@
 </div>
 
 - 🖥 I’m currently working with Full Stack
-- 🌱 I’m currently learning by following a Backend roadmap, you can see my progress <a href="https://github.com/ilgarcia/Learning-Backend">here</a> 
 - 🎓 I’m currently Studying Computer Science at Faculdade de Informática e Administração Paulista (FIAP) 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ilgarcia/">Linkedin</a>
+- 🌱 You can also see my portfolio <a href="https://www.ilgarcia.com/">here</a> 
 - 😄 Pronouns: he/him
 
 ## 🔥 About me
+
+Hello! My name is Igor, my interest in web development started back in 2018 when I decided to start my own company. I've always been someone who has both a creative and a logical side and i realized it would be the perfect fit if i could use my creative side to design and my logical side to code.
+
+Well-organized person, problem solver, independent employee with high attention to detail. I want to keep learning, continue challenging myself, and do interesting things that matter.
+
+## 👨‍💻 Programming languages and Tools
 
 <!-- Badges -->
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://www.vectorlogo.zone/ -->
 <!-- https://devicon.dev/ -->
-
-## 👨‍💻 Programming languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
