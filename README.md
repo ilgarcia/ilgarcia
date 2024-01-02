@@ -22,80 +22,45 @@ Well-organized person, problem solver, independent employee with high attention 
 
 ## 👨‍💻 Programming languages and Tools
 
-<!-- Badges -->
-<!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<!-- https://www.vectorlogo.zone/ -->
-<!-- https://devicon.dev/ -->
+<table>
+<thead>
+  <tr >
+    <th width="300px">Code</th>
+    <th width="300px">Frameworks</th>
+    <th width="300px">Database</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>HTML, CSS, JavaScript, TypeScript, PHP, Java</td>
+    <td>React, NestJs, NodeJS, Express, Sass, Styled-components, Tailwind</td>
+    <td>MongoDB, Firebase, PostgreSQL, MySQL, Oracle</td>
+  </tr>
+</tbody>
+</table>
 
-### Languages
-
-<div style="display:flex;flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" height="50"/>         
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-          
-</div>
-
-### Tools
-
-<div style="display:flex;flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="50"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="50"/>     
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" height="50" /> 
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>  
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>  
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"  height="50" />
-          
-</div>
-
-### Frameworks 
-
-<div style="display:flex;flex-wrap:wrap;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="50"/>       
-&nbsp;
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next" height="50"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" height="50"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="50"/>
-                 
-</div>
-          
-### UI Frameworks 
-
-<div style="display:flex;flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50"/>      
-</div>
+<table>
+<thead>
+  <tr>
+    <th width="300px">Tests</th>
+    <th width="300px">Infra and DevOps</th>
+    <th width="300px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Jest, Cypress, Integration Testing, Unit Testing, Functional Testing</td>
+    <td>Git, GitHub, PWA, Wordpress, CI/CD, AWS, Doker, GraphQL, Rest</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 ## 📖  What i'am currently learning / improving on
 
-<div style="display:flex;flex-wrap:wrap;">
+<!--- <div style="display:flex;flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50"/>
-</div>
+</div> -->
 
 ## 👾  What i'am interested in learning at some point
 
